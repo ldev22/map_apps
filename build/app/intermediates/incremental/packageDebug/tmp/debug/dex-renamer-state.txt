@@ -1,0 +1,4 @@
+#Sun Nov 19 15:25:16 SAST 2023
+base.0=/Users/lorean-devries/Documents/mystuff/map_apps/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
