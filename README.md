@@ -1,6 +1,6 @@
 # maps
 
-A new Flutter project.
+A flutter maps project using Flutter and Google Maps
 
 ## Getting Started
 

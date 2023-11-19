@@ -6,6 +6,8 @@ class PlaceDetailView extends StatelessWidget {
   const PlaceDetailView({super.key, required this.place});
   final Place place;
 
+  final String apiKey = 'AIzaSyB9RFY4biNIDW4B-OwDw_0LOXj5nbkxUPk';
+
   String get locationImage {
     final lat = place.location.latitude;
     final lon = place.location.longitude;
