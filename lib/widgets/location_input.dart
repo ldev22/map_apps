@@ -19,7 +19,7 @@ class LocationInput extends StatefulWidget {
 class _LocationInputState extends State<LocationInput> {
   PlaceLocation? _pickedLocation;
   var _isGettingLocation = false;
-  final String apiKey = 'AIzaSyB9RFY4biNIDW4B-OwDw_0LOXj5nbkxUPk';
+  final String apiKey = '';
 
   String get locationImage {
     if (_pickedLocation == null) {
